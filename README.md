@@ -2,7 +2,7 @@
 
 👀 I'm interested in creating innovative web applications and exploring new technologies.
 
-🌱 Currently, I'm learning ReactJS and Java to enhance my skills in front-end and back-end development.
+🌱 Currently, I'm learning ReactJS and Java DSA to enhance my skills in front-end and back-end development.
 
 💞️ I'm looking to collaborate on meaningful projects that involve web development and solving real-world problems.
 
