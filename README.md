@@ -104,8 +104,8 @@
 ## 🛠️ Featured Project
 
 ### 🌟 Decentralized Crowdfunding Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhage1502/crowdfunding-platform){:target="_blank" rel="noopener noreferrer"}
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com){:target="_blank" rel="noopener noreferrer"}
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sdhage1502/](https://github.com/sdhage1502/decentralized-crowdfunding))
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-demo-link.com](https://decentralized-crowdfunding-woad.vercel.app/))
 
 **🔧 Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Ethers.js, Firebase Firestore
 
