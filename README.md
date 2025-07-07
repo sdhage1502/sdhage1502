@@ -8,7 +8,7 @@
   <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/shreyash-dhage" target="_blank" rel="noopener noreferrer">
+  <a href="https://linkedin.com/in/shreyashdhage" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sdhage1502@gmail.com" target="_blank" rel="noopener noreferrer">
