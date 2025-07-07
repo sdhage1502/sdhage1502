@@ -5,16 +5,16 @@
 </div>
 
 <p align="center">
-  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank">
+  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/shreyash-dhage" target="_blank">
+  <a href="https://linkedin.com/in/shreyash-dhage" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:sdhage1502@gmail.com">
+  <a href="mailto:sdhage1502@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="tel:+918999760729">
+  <a href="tel:+918999760729" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone"/>
   </a>
 </p>
@@ -104,8 +104,8 @@
 ## 🛠️ Featured Project
 
 ### 🌟 Decentralized Crowdfunding Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhage1502/crowdfunding-platform)
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhage1502/crowdfunding-platform){:target="_blank" rel="noopener noreferrer"}
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com){:target="_blank" rel="noopener noreferrer"}
 
 **🔧 Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Ethers.js, Firebase Firestore
 
@@ -126,7 +126,7 @@
   <h3>🔍 Explore More Projects</h3>
   <p>Discover my complete portfolio including <strong>Web3 DApps</strong>, <strong>Full-Stack Applications</strong>, <strong>Smart Weather Apps</strong>, <strong>Authentication Systems</strong>, and more!</p>
   
-  <a href="https://github.com/sdhage1502?tab=repositories" target="_blank">
+  <a href="https://github.com/sdhage1502?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
   </a>
 </div>
@@ -162,7 +162,7 @@
   <p>💡 <strong>Always open to collaborating on exciting projects!</strong></p>
   <p>Whether it's web development, Web3 innovations, or solving real-world problems with code - let's build something amazing together!</p>
   
-  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank">
+  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
