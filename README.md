@@ -1,7 +1,7 @@
 # 👋 Hey there! I'm Shreyash Dhage
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MCA+Graduate+%7C+Software+Developer;Web3+Enthusiast+%7C+React+Developer;Building+the+Future+with+Code!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full+Stack+Engineer+%7C+React+%2F+Next.js+%2F+TypeScript;Data+%26+SQL+Enthusiast+%7C+ETL+Pipelines;Building+Fast%2C+Scalable+Web+Apps!" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -23,11 +23,15 @@
 
 ## 🚀 About Me
 
-🎓 **MCA Graduate (2025)** with a passion for crafting innovative web applications and diving deep into **Web3** technologies.
+🎓 **MCA Graduate (2025)** who loves building fast, scalable web apps and getting hands-on with data pipelines.
 
-💼 **Software Developer Intern** at **Hexadecimal Software Pvt. Ltd.** (Sep 2024–Apr 2025) - Building responsive, dynamic web applications with modern tech stacks.
+💼 Currently a **Next.js Developer Intern** at **Meru Technosoft Pvt. Ltd.** (Nov 2025–Present), building high-performance apps with Server Components, ISR, and headless CMS integrations.
 
-🌟 **Mission**: To create scalable, user-centric solutions that solve real-world problems through clean code and innovative thinking.
+🏢 Previously a **Software Developer Intern** at **Hexadecimal Software Pvt. Ltd.** (Sep 2024–Apr 2025), shipping accessible, production-ready UI components.
+
+🌟 **Mission**: To build scalable, user-centric products — from pixel-perfect frontends to clean, reliable data pipelines.
+
+📍 Based in Pune, India.
 
 ---
 
@@ -40,24 +44,32 @@
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="React Query"/>
+  <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white" alt="TanStack Query"/>
+  <img src="https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit"/>
 </p>
 
 ### Backend & APIs
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white" alt="REST API"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white" alt="JWT"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n"/>
 </p>
 
-### Databases
+### Data & Databases
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge" alt="ETL"/>
+  <img src="https://img.shields.io/badge/Airflow_(Basics)-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
+  <img src="https://img.shields.io/badge/dbt_(Basics)-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
 </p>
 
 ### Web3 & Blockchain
@@ -70,62 +82,88 @@
 ### Languages & Core
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Data_Structures-4CAF50?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K&logoColor=white" alt="DSA"/>
+  <img src="https://img.shields.io/badge/Python_(Basics)-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Data_Structures_%26_Algorithms-4CAF50?style=for-the-badge" alt="DSA"/>
+  <img src="https://img.shields.io/badge/OOPs-4CAF50?style=for-the-badge" alt="OOPs"/>
 </p>
 
-### Tools & Development
+### Tools & DevOps
 <p align="left">
-  <img src="https://img.shields.io/badge/Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black" alt="Webpack"/>
-  <img src="https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E" alt="Vite"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Chrome_DevTools-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Chrome DevTools"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel"/>
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white" alt="AWS S3"/>
+  <img src="https://img.shields.io/badge/Azure_Blob-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Blob"/>
+  <img src="https://img.shields.io/badge/GCP_(Basics)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="GCP"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
 ---
 
 ## 💼 Professional Experience
 
-### 🏢 Software Developer Intern | Hexadecimal Software Pvt. Ltd.
+### 🏢 Next.js Developer Intern | Meru Technosoft Pvt. Ltd. — Remote
+**📅 Nov 2025 – Present**
+
+- 🚀 Built and scaled a high-performance web app using **Next.js** and **React**, implementing Server Components and ISR across 90+ pages
+- 🧩 Architected and integrated a headless CMS (**Payload CMS**) with REST APIs, enabling dynamic content delivery and multi-site support
+- 🔄 Designed end-to-end blog automation pipelines with **n8n** and custom REST APIs, cutting manual publishing time by ~70% (12+ hrs/week saved)
+- ⚡ Optimized performance via lazy loading, caching, and code splitting — achieving 90+ Lighthouse (mobile) and 95+ (desktop)
+
+### 🏢 Software Developer Intern | Hexadecimal Software Pvt. Ltd. — Remote
 **📅 Sep 2024 – Apr 2025**
 
-- 🚀 Built dynamic web pages and features using **React**, **Next.js**, **TypeScript**, and **Tailwind CSS**
-- 🔗 Integrated **Node.js** and **Firebase** REST APIs in Agile development sprints
-- 🎯 Delivered responsive, user-friendly interfaces with optimal performance
-- 👥 Collaborated with cross-functional teams to meet project deadlines and requirements
+- 🚀 Built reusable, scalable UI components with **React**, **TypeScript**, and **Tailwind CSS**, cutting page load time by 25%
+- 📝 Helped build and streamline the company blog site, resolving deployment blockers for the editorial team
+- 🐞 Diagnosed and resolved frontend performance issues with Chrome DevTools, boosting UX scores by 34%
+- 🎨 Translated Figma designs into accessible, WCAG-compliant production UI
 
 ---
 
-## 🛠️ Featured Project
+## 🛠️ Featured Projects
+
+### 🗄️ MySQL + Next.js Master Data Management System
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhage1502)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
+
+**🔧 Tech Stack:** Next.js, React, TypeScript, MySQL, Prisma ORM
+
+- 🧱 Full-stack MDM system with **13 database models** and **17 REST API endpoints**
+- 🔗 Normalized schema with joins, aggregate queries, soft deletes, and audit logging across 5 master entities
+- 🧹 ETL-style CSV import with fuzzy-matching duplicate detection, confidence scoring, and a match/merge workflow inspired by Informatica MDM concepts
+- 🔐 Role-based access (3 roles), JWT auth, server-side search/filter/pagination
 
 ### 🌟 Decentralized Crowdfunding Platform
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)]([https://github.com/sdhage1502/](https://github.com/sdhage1502/decentralized-crowdfunding))
-[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)]([https://your-demo-link.com](https://decentralized-crowdfunding-woad.vercel.app/))
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhage1502/decentralized-crowdfunding)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://decentralized-crowdfunding-woad.vercel.app/)
 
 **🔧 Tech Stack:** Next.js, React, TypeScript, Tailwind CSS, Ethers.js, Firebase Firestore
 
-**✨ Key Features:**
-- 🔒 **Secure blockchain integration** with MetaMask connectivity for seamless Web3 transactions
-- ⚡ **Real-time data synchronization** using Firebase Firestore with optimized queries
-- 🎨 **Responsive design** ensuring cross-browser compatibility and accessibility standards
-- 🔗 **Smart contract interactions** enabling transparent and trustless crowdfunding operations
-- 📱 **Mobile-first approach** with progressive web app capabilities
-- 🛡️ **Security-first architecture** with input validation and error handling
-- 📊 **Dynamic dashboards** for campaign creators and backers with real-time updates
+- 🔒 MetaMask wallet integration for Web3 transactions — 40% faster loads, 100% cross-device compatibility
+- ⚡ Real-time sync via Firebase Firestore; Firebase Auth for admin access control
+- 🛠️ Fixed cross-browser bugs via Chrome DevTools; added React Query for server-state management (−25% compatibility bugs)
 
-**🚀 Impact:** This platform demonstrates the power of decentralized finance (DeFi) by removing intermediaries and ensuring transparent fund management through blockchain technology.
+### ⛅ Smart Weather Forecast App with AI Assistant
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sdhage1502)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-FF4B4B?style=for-the-badge&logo=vercel&logoColor=white)](https://your-demo-link.com)
+
+**🔧 Tech Stack:** React, TypeScript, Vite, React Query, OpenRouter API
+
+- 🌦️ AI-powered weather dashboard with OpenWeatherMap REST APIs — 95/100 Lighthouse score
+- 💾 Cut API response times by 35% using localStorage caching and optimized Axios calls
+- 🤖 Added AI-driven weather summaries & Q&A using OpenRouter API + Meta LLaMA 3.3
+- ✅ Validated with Jest unit tests and Postman contract testing
 
 ---
 
 <div align="center">
   <h3>🔍 Explore More Projects</h3>
-  <p>Discover my complete portfolio including <strong>Web3 DApps</strong>, <strong>Full-Stack Applications</strong>, <strong>Smart Weather Apps</strong>, <strong>Authentication Systems</strong>, and more!</p>
-  
+  <p>Check out my complete portfolio of <strong>Web3 DApps</strong>, <strong>Full-Stack Applications</strong>, and <strong>Data Pipelines</strong>!</p>
+
   <a href="https://github.com/sdhage1502?tab=repositories" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🚀_View_All_Repositories-000000?style=for-the-badge&logo=github&logoColor=white" alt="All Repositories"/>
   </a>
@@ -148,11 +186,11 @@
 
 ## 🎯 Current Focus
 
-- 🔍 **Deepening expertise** in React.js, Next.js, and advanced TypeScript patterns
-- 🧠 **Mastering Data Structures & Algorithms** with Java
-- 🌐 **Exploring Web3 technologies** and blockchain development
-- 🚀 **Building scalable applications** with modern architecture patterns
-- 🤝 **Contributing to open-source projects** and community initiatives
+- 🔍 Deepening expertise in **Next.js App Router**, Server Components, and advanced TypeScript patterns
+- 🗄️ Growing my **SQL / data engineering** skills — ETL pipelines, data modeling, and automation with n8n
+- 🧠 Mastering **Data Structures & Algorithms** with Java
+- 🚀 Building scalable applications with modern architecture patterns
+- 🤝 Contributing to open-source projects and community initiatives
 
 ---
 
@@ -160,8 +198,8 @@
 
 <div align="center">
   <p>💡 <strong>Always open to collaborating on exciting projects!</strong></p>
-  <p>Whether it's web development, Web3 innovations, or solving real-world problems with code - let's build something amazing together!</p>
-  
+  <p>Whether it's frontend engineering, data pipelines, or Web3 innovations — let's build something amazing together!</p>
+
   <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
