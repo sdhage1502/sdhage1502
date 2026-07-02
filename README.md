@@ -5,10 +5,10 @@
 </div>
 
 <p align="center">
-  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio.shreyashdhage.in/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/shreyashdhage" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/shreyashdhage" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="mailto:sdhage1502@gmail.com" target="_blank" rel="noopener noreferrer">
@@ -25,11 +25,13 @@
 
 🎓 **MCA Graduate (2025)** who loves building fast, scalable web apps and getting hands-on with data pipelines.
 
-💼 Most recently a **Next.js Developer Intern** at **Meru Technosoft Pvt. Ltd.** (Nov 2025–Mar 2026), building high-performance apps with Server Components, ISR, and headless CMS integrations.
+💼 Most recently a **Software Developer** at **Meru Technosoft** (Nov 2025–Apr 2026), building high-performance apps with Server Components, ISR, and headless CMS integrations.
 
-🏢 Also worked as a **Software Developer Intern** at **Hexadecimal Software Pvt. Ltd.** (Sep 2024–Apr 2025), shipping accessible, production-ready UI components.
+🏢 Also worked as a **Software Engineer Intern** at **Hexadecimal Software Pvt. Ltd.**, Noida (Sep 2024–May 2025), shipping accessible, production-ready UI components.
 
-🔎 Currently looking for full-time opportunities as a Full Stack / Frontend / Data Engineer.
+📈 13 months of experience across 2 companies, working remotely on real production codebases.
+
+🔎 Open to Frontend & Full Stack roles — Pune or Remote.
 
 🌟 **Mission**: To build scalable, user-centric products — from pixel-perfect frontends to clean, reliable data pipelines.
 
@@ -72,6 +74,9 @@
   <img src="https://img.shields.io/badge/ETL-4CAF50?style=for-the-badge" alt="ETL"/>
   <img src="https://img.shields.io/badge/Airflow_(Basics)-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow"/>
   <img src="https://img.shields.io/badge/dbt_(Basics)-FF694B?style=for-the-badge&logo=dbt&logoColor=white" alt="dbt"/>
+  <img src="https://img.shields.io/badge/DBMS-336791?style=for-the-badge&logo=databricks&logoColor=white" alt="DBMS"/>
+  <img src="https://img.shields.io/badge/Data_Analysis-13A085?style=for-the-badge" alt="Data Analysis"/>
+  <img src="https://img.shields.io/badge/RAG_(Retrieval--Augmented_Generation)-8A2BE2?style=for-the-badge" alt="RAG"/>
 </p>
 
 ### Web3 & Blockchain
@@ -108,16 +113,16 @@
 
 ## 💼 Professional Experience
 
-### 🏢 Next.js Developer Intern | Meru Technosoft Pvt. Ltd. — Remote
-**📅 Nov 2025 – Mar 2026**
+### 🏢 Software Developer | Meru Technosoft
+**📅 Nov 2025 – Apr 2026 (6 months)**
 
-- 🚀 Built and scaled a high-performance web app using **Next.js** and **React**, implementing Server Components and ISR across 90+ pages
-- 🧩 Architected and integrated a headless CMS (**Payload CMS**) with REST APIs, enabling dynamic content delivery and multi-site support
-- 🔄 Designed end-to-end blog automation pipelines with **n8n** and custom REST APIs, cutting manual publishing time by ~70% (12+ hrs/week saved)
+- 🚀 Built and scaled a high-performance web app using **Next.js** and **React**, delivering 90+ SEO-optimized pages with high performance
+- 🧩 Integrated a headless CMS (**Payload CMS**) with REST APIs, enabling dynamic content management and multi-site architecture
+- 🔄 Developed end-to-end automation workflows using **n8n**, including custom APIs for automated blog creation and publishing
 - ⚡ Optimized performance via lazy loading, caching, and code splitting — achieving 90+ Lighthouse (mobile) and 95+ (desktop)
 
-### 🏢 Software Developer Intern | Hexadecimal Software Pvt. Ltd. — Remote
-**📅 Sep 2024 – Apr 2025**
+### 🏢 Software Engineer Intern | Hexadecimal Software Pvt. Ltd. — Noida, Uttar Pradesh, India
+**📅 Sep 2024 – May 2025 (9 months)**
 
 - 🚀 Built reusable, scalable UI components with **React**, **TypeScript**, and **Tailwind CSS**, cutting page load time by 25%
 - 📝 Helped build and streamline the company blog site, resolving deployment blockers for the editorial team
@@ -186,6 +191,16 @@
 
 ---
 
+## 📜 Certifications
+
+- 🏆 Spring Boot and React: Build Scalable and Dynamic Web Apps
+- 🏆 Google Digital Unlock (Fundamentals of Digital Marketing)
+- 🏆 Automated Software Testing
+- 🏆 Getting Started with AWS Machine Learning
+- 🏆 Career Essentials in Software Development — Microsoft & LinkedIn
+
+---
+
 ## 🎯 Current Focus
 
 - 🔍 Deepening expertise in **Next.js App Router**, Server Components, and advanced TypeScript patterns
@@ -202,8 +217,14 @@
   <p>💡 <strong>Always open to collaborating on exciting projects!</strong></p>
   <p>Whether it's frontend engineering, data pipelines, or Web3 innovations — let's build something amazing together!</p>
 
-  <a href="https://shreyash-portfoilo-website.vercel.app/" target="_blank" rel="noopener noreferrer">
+  <a href="https://portfolio.shreyashdhage.in/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/🌐_Visit_My_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/shreyashdhage" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://defund.shreyashdhage.in/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/🏢_My_Company-000000?style=for-the-badge" alt="Company"/>
   </a>
 </div>
 
