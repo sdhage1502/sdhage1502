@@ -25,9 +25,11 @@
 
 🎓 **MCA Graduate (2025)** who loves building fast, scalable web apps and getting hands-on with data pipelines.
 
-💼 Currently a **Next.js Developer Intern** at **Meru Technosoft Pvt. Ltd.** (Nov 2025–Present), building high-performance apps with Server Components, ISR, and headless CMS integrations.
+💼 Most recently a **Next.js Developer Intern** at **Meru Technosoft Pvt. Ltd.** (Nov 2025–Mar 2026), building high-performance apps with Server Components, ISR, and headless CMS integrations.
 
-🏢 Previously a **Software Developer Intern** at **Hexadecimal Software Pvt. Ltd.** (Sep 2024–Apr 2025), shipping accessible, production-ready UI components.
+🏢 Also worked as a **Software Developer Intern** at **Hexadecimal Software Pvt. Ltd.** (Sep 2024–Apr 2025), shipping accessible, production-ready UI components.
+
+🔎 Currently looking for full-time opportunities as a Full Stack / Frontend / Data Engineer.
 
 🌟 **Mission**: To build scalable, user-centric products — from pixel-perfect frontends to clean, reliable data pipelines.
 
@@ -107,7 +109,7 @@
 ## 💼 Professional Experience
 
 ### 🏢 Next.js Developer Intern | Meru Technosoft Pvt. Ltd. — Remote
-**📅 Nov 2025 – Present**
+**📅 Nov 2025 – Mar 2026**
 
 - 🚀 Built and scaled a high-performance web app using **Next.js** and **React**, implementing Server Components and ISR across 90+ pages
 - 🧩 Architected and integrated a headless CMS (**Payload CMS**) with REST APIs, enabling dynamic content delivery and multi-site support
